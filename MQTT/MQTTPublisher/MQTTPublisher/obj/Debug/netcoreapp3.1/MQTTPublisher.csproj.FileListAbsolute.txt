@@ -1,0 +1,16 @@
+/Users/pavandattareddy/Documents/MQTTPublisher/MQTTPublisher/bin/Debug/netcoreapp3.1/MQTTPublisher
+/Users/pavandattareddy/Documents/MQTTPublisher/MQTTPublisher/bin/Debug/netcoreapp3.1/MQTTPublisher.deps.json
+/Users/pavandattareddy/Documents/MQTTPublisher/MQTTPublisher/bin/Debug/netcoreapp3.1/MQTTPublisher.runtimeconfig.json
+/Users/pavandattareddy/Documents/MQTTPublisher/MQTTPublisher/bin/Debug/netcoreapp3.1/MQTTPublisher.runtimeconfig.dev.json
+/Users/pavandattareddy/Documents/MQTTPublisher/MQTTPublisher/bin/Debug/netcoreapp3.1/MQTTPublisher.dll
+/Users/pavandattareddy/Documents/MQTTPublisher/MQTTPublisher/bin/Debug/netcoreapp3.1/MQTTPublisher.pdb
+/Users/pavandattareddy/Documents/MQTTPublisher/MQTTPublisher/bin/Debug/netcoreapp3.1/MQTTnet.dll
+/Users/pavandattareddy/Documents/MQTTPublisher/MQTTPublisher/obj/Debug/netcoreapp3.1/MQTTPublisher.csproj.AssemblyReference.cache
+/Users/pavandattareddy/Documents/MQTTPublisher/MQTTPublisher/obj/Debug/netcoreapp3.1/MQTTPublisher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavandattareddy/Documents/MQTTPublisher/MQTTPublisher/obj/Debug/netcoreapp3.1/MQTTPublisher.AssemblyInfoInputs.cache
+/Users/pavandattareddy/Documents/MQTTPublisher/MQTTPublisher/obj/Debug/netcoreapp3.1/MQTTPublisher.AssemblyInfo.cs
+/Users/pavandattareddy/Documents/MQTTPublisher/MQTTPublisher/obj/Debug/netcoreapp3.1/MQTTPublisher.csproj.CoreCompileInputs.cache
+/Users/pavandattareddy/Documents/MQTTPublisher/MQTTPublisher/obj/Debug/netcoreapp3.1/MQTTPublisher.csproj.CopyComplete
+/Users/pavandattareddy/Documents/MQTTPublisher/MQTTPublisher/obj/Debug/netcoreapp3.1/MQTTPublisher.dll
+/Users/pavandattareddy/Documents/MQTTPublisher/MQTTPublisher/obj/Debug/netcoreapp3.1/MQTTPublisher.pdb
+/Users/pavandattareddy/Documents/MQTTPublisher/MQTTPublisher/obj/Debug/netcoreapp3.1/MQTTPublisher.genruntimeconfig.cache

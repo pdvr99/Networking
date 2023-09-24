@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "innER/2L9V6DI6ELDFbT1Zt/gSoz8IcOslbdWReKVFjDoWKZ03Vs0/7+cOK8Ka4IMebX4+N/LD5Y0mf41GCgYQ==",
+  "success": true,
+  "projectFilePath": "/Users/pavandattareddy/Documents/MQTTclient/MQTTclient/MQTTclient.csproj",
+  "expectedPackageFiles": [
+    "/Users/pavandattareddy/.nuget/packages/mqttnet/4.2.1.781/mqttnet.4.2.1.781.nupkg.sha512",
+    "/Users/pavandattareddy/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/pavandattareddy/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "/Users/pavandattareddy/.nuget/packages/unity.abstractions/5.11.7/unity.abstractions.5.11.7.nupkg.sha512",
+    "/Users/pavandattareddy/.nuget/packages/unity.container/5.11.11/unity.container.5.11.11.nupkg.sha512"
+  ],
+  "logs": []
+}
